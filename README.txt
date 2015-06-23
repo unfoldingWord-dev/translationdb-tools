@@ -1,3 +1,5 @@
+Deprecated, see https://github.com/unfoldingWord-dev/translationDatabaseWeb
+
 1) Create a database called language_data
 2) Run language_data-structure-2014-09-15.sql to create the tables and structure
 3) Change the database creds in import_all.php and generate_exports.php
